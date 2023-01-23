@@ -1,3 +1,9 @@
-Oii👋🏼 Eu sou Monique Araújo!
+### Olá, Eu sou a Monique.
+
+- Apaixonada por programação.
+- Estudante de Tecnologia e desenvolvimento de sistemas.
+- Front-end Developer. 
+
+
 
 
