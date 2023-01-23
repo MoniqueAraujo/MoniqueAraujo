@@ -5,7 +5,7 @@
 - ✨  Front-end Developer.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://@niique_medeiiros.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monique-araujo)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monique-araújo-612946236/)
 [![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/moniquemedeiiros@outlook.com)
 
 ![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquearaujo&show_icons=true&theme=dracula)
